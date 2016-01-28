@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Trying to learn MEAN STACK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainbuggythefifth/practice.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Gaudencio R. Teves V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captainbuggythefifth/practice/issues"
+  },
+  "homepage": "https://github.com/captainbuggythefifth/practice#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
